@@ -4,6 +4,7 @@ body {
 	background-color: #000;
 }
 h1  {
+  font-family: 'Rock Salt', 'Trebuchet MS', sans-serif;
   height: 100px;
   color: #ddd;
   margin: 0;
