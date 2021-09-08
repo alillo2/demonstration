@@ -3,3 +3,13 @@ body {
 	color: #ddd;
 	background-color: #000;
 }
+h1  {
+  height: 100px;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-position: center;
+  text-indent: -9999px;
+}
+ul {
+  list-style-position: inside;
+}
