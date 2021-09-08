@@ -10,8 +10,8 @@ h1  {
   margin: 0;
   background-repeat: no-repeat;
   background-position: center;
-  text-indent: -9999px;
+
 }
 ul {
-  list-style-position: inside;
+  list-style-position: outside;
 }
