@@ -5,11 +5,10 @@ body {
 }
 h1  {
   font-family: 'Rock Salt', 'Trebuchet MS', sans-serif;
-  height: 100px;
+  text-align: center;
+
   color: #ddd;
-  margin: 0;
-  background-repeat: no-repeat;
-  background-position: center;
+
 
 }
 ul {
